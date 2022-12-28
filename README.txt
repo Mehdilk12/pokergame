@@ -1,5 +1,5 @@
 bonjour ,
-veuillez utiliser le compilateur  https://codeboot.org/py/ puisque des des images et quelques éléments  sont pré-enregistrer la bas merci :D
+veuillez utiliser le compilateur  https://codeboot.org/py/ puisque des des images et quelques éléments  sont pré-enregistrer par le professeur la bas merci :D
 voici l'énoncé:
 1. Introduction
 Ce travail pratique consiste à développer une application web pour jouer au jeu poker shuffle. C'est un jeu joué en solitaire (un seul joueur) avec des cartes à jouer standard (52 cartes). Le jeu consiste à piger 25 cartes une à la fois et les placer dans une grille 5 par 5 pour former des mains de poker sur les 5 rangées et 5 colonnes.
