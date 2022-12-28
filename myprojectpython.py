@@ -1,4 +1,4 @@
-#veuillez utiliser le compilateur  https://codeboot.org/py/ puisque des  images et quelques éléments  sont pré-enregistrer la bas merci beaucoup :D
+#veuillez utiliser le compilateur  https://codeboot.org/py/ puisque des  images et quelques éléments  sont pré-enregistrer par le prof  la bas merci beaucoup :D
 def init():
     nom=" document.querySelector('#main')"
     html='''
